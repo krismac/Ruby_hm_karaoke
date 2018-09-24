@@ -96,6 +96,8 @@ class SongsTest < MiniTest::Test
       name: "MegaMix Catalogue"
     }
   end
+
+  # simplified - was planning to work on the hash with queries
       # def test_song_catalogue_name
       #   name = song_catalogue_name(@song_list)
       #   assert_equal("MegaMix Catalogue", name)

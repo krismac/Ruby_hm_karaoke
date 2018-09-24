@@ -84,7 +84,7 @@ class RoomsTest < Minitest::Test
     end
 
 
-    # def test_cheer
+    # def test_cheer - doesnt work commented out.
     #    @room.check_guests_in(@guests)
     #    songs = @room.songs
     #    assert_equal("Whooo!", @guests[0].cheer(songs))
@@ -93,8 +93,8 @@ class RoomsTest < Minitest::Test
 
 end
 
-    # def test_songs_sung_most
+    # def test_songs_sung_most - didnt write
     #   # store songs sung by group
     #
-    # def test_playlist_
+    # def test_playlist- didnt write
     # # print the list of songs that are coming up

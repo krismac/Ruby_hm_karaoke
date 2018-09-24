@@ -57,7 +57,7 @@ class GuestsTest < Minitest::Test
       assert_equal(0, @Guest2.wallet)
     end
 
-    # def test_guest_fav_song
+    # def test_guest_fav_song - doesnt work - commented out
     #   assert_equal("Whoo Maniac 2000 is the best", @Guest1.favsong)
     # end
 
